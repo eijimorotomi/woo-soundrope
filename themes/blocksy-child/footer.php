@@ -26,7 +26,7 @@ do_action('blocksy:content:bottom');
 </div>
 
 <?php wp_footer(); ?>
-<p>test17:10</p>
+<p>test18:11</p>
 
 </body>
 </html>
